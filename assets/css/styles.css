@@ -122,3 +122,13 @@ figcaption {
 .rounded-bottom {
   border-radius:	  0 0 8px 8px;
 }
+
+.price:before {
+    content:"$ ";
+    font: bold 15px 'Amatic', sans-serif;
+}
+.price:after{
+    content: " mxn";
+    font: bold 10px 'Amatic', sans-serif;
+    text-transform: uppercase;
+}
