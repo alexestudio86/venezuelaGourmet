@@ -51,6 +51,46 @@ figcaption {
 .mb-5 {
   margin-bottom:    64px;
 }
+.mx-1 {
+  margin-left:      4px;
+  margin-rigth:     4px;
+}
+.mx-2 {
+  margin-left:      8px;
+  margin-rigth:     8px;
+}
+.mx-3 {
+  margin-left:      16px;
+  margin-rigth:     16px;
+}
+.mx-4 {
+  margin-left:      32px;
+  margin-rigth:     32px;
+}
+.mx-5 {
+  margin-left:      64px;
+  margin-rigth:     64px;
+}
+.my-1 {
+  margin-top:       4px;
+  margin-bottom:    4px;
+}
+.my-2 {
+  margin-top:       8px;
+  margin-bottom:    8px;
+}
+.my-3 {
+  margin-top:       16px;
+  margin-bottom:    16px;
+}
+.my-4 {
+  margin-top:       32px;
+  margin-bottom:    32px;
+}
+.my-5 {
+  margin-top:       64px;
+  margin-bottom:    64px;
+}
 .pl-1 {
   padding-left:     4px;
 }
