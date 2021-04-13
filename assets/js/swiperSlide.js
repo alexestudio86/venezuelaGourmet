@@ -1,3 +1,5 @@
+//SWIPER ANIMATION ONE SLIDE CAROUSEL
+
 var swiper = new Swiper('.swiper-container', {
   autoplay: {
     delay: 2500,
