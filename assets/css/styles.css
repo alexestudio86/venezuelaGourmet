@@ -25,6 +25,10 @@ figcaption {
 }
 .tapiz {
   background-image: url("https://1.bp.blogspot.com/-zMN6Nv7_Tbw/YH44fCVzXFI/AAAAAAABAAM/349gOarVq5YPazbmKd6i8350RmwqMfoHgCLcBGAsYHQ/s1024/background.png");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .menuFont{
   font-family:      "Amatic SC", sans-serif;
