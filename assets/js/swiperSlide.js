@@ -3,7 +3,7 @@
 window.onload = () => {
   var swiper = new Swiper('.swiper', {
     autoplay: {
-      delay: 2500,
+      delay: 5000,
       disableOnInteraction: false,
     },
     loop: true,
